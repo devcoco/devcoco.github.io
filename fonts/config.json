@@ -1,0 +1,100 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "e92e6cad2da0ee4bc374a1ef4c6ab12b",
+      "css": "terminal",
+      "code": 59399,
+      "src": "websymbols"
+    },
+    {
+      "uid": "7e25a96981e6bd6b1592c409da293c45",
+      "css": "cloud",
+      "code": 59400,
+      "src": "websymbols"
+    },
+    {
+      "uid": "41eeea14413f2539da21b4d1754bf4be",
+      "css": "arrows-cw",
+      "code": 59401,
+      "src": "websymbols"
+    },
+    {
+      "uid": "2a3cd95de2621bd87479396f236fd2a4",
+      "css": "heart",
+      "code": 59402,
+      "src": "websymbols"
+    },
+    {
+      "uid": "1bcc6c6369c3d475fa27115f806ff2ad",
+      "css": "heart-empty",
+      "code": 59403,
+      "src": "websymbols"
+    },
+    {
+      "uid": "cba6018f5de17c76f70b7d2c06037e5a",
+      "css": "mail",
+      "code": 59409,
+      "src": "websymbols"
+    },
+    {
+      "uid": "542e3f055aaa4ddfb9ab3e00397db47f",
+      "css": "linkedin",
+      "code": 62234,
+      "src": "brandico"
+    },
+    {
+      "uid": "4c01f5d3ba5fbf029bca8630cce41e6a",
+      "css": "twitter-bird-1",
+      "code": 59414,
+      "src": "brandico"
+    },
+    {
+      "uid": "5a00c877da3f63d37cdc021815e3f5a9",
+      "css": "skype",
+      "code": 62219,
+      "src": "brandico"
+    },
+    {
+      "uid": "e15f0d620a7897e2035c18c80142f6d9",
+      "css": "link-ext",
+      "code": 61582,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "ce5e29aa5208417700e7f7012a236c00",
+      "css": "undo",
+      "code": 59392,
+      "src": "iconic"
+    },
+    {
+      "uid": "c8585e1e5b0467f28b70bce765d5840c",
+      "css": "docs",
+      "code": 61637,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "12f4ece88e46abd864e40b35e05b11cd",
+      "css": "ok",
+      "code": 59393,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "0805cca616b3c12714f35af4d0912c10",
+      "css": "up-open-big",
+      "code": 59394,
+      "src": "entypo"
+    },
+    {
+      "uid": "289b5f92f23acf1059c93fbf401c1ad5",
+      "css": "down-open-big",
+      "code": 59395,
+      "src": "entypo"
+    }
+  ]
+}
