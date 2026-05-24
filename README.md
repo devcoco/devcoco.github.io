@@ -1,2 +1,2 @@
-# Julien Colson [Web Developper]
-Personal page
+# Julien Colson | Web Developper
+Portfolio
