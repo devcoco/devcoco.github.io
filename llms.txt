@@ -1,0 +1,18 @@
+# Julien Colson — Développeur Web
+
+> Portfolio de Julien Colson, développeur web freelance basé en Suisse.
+
+## À propos
+
+Julien Colson est développeur web avec une expertise couvrant l'ensemble du cycle de vie d'un projet : de l'analyse des besoins jusqu'au déploiement en production. Il travaille aussi bien en autonomie qu'en équipe, et s'adapte aux contraintes techniques et organisationnelles de chaque projet.
+
+## Compétences
+
+- **Frontend** : intégration HTML/CSS/JS, animations (GSAP), responsive design
+- **Backend** : développement WordPress (Bedrock, Gutenberg, ACF, WooCommerce)
+- **Outils** : SCSS, Git, Node.js
+
+## Contact
+
+- Site : https://juliencolson.me
+- LinkedIn : https://www.linkedin.com/in/juliencolson
